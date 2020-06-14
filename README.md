@@ -1,6 +1,7 @@
 # Heures d'ouverture de magasin
 ## Contexte
-Ce repository contient un exercice de programation qui à dû être réalisé pour un entretien d'admission au CPNV filière Développement d'appliation
+Ce repository contient un exercice de programation qui à dû être réalisé pour un entretien d'admission au CPNV filière Développement d'application.
+J'ai choisi le Java car je suis déjà familiarisé avec ce language et je trouve que la gestion des dates est assez bien.
 ## Environnement
 Testé sous :
 - Fedora 32 5.6.14-300.fc32.x86_64
