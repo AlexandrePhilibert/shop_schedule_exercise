@@ -1,7 +1,7 @@
 # Heures d'ouverture de magasin
 ## Contexte
 Ce repository contient un exercice de programation qui à dû être réalisé pour un entretien d'admission au CPNV filière Développement d'appliation
-## Environement
+## Environnement
 Testé sous :
 - Fedora 32 5.6.14-300.fc32.x86_64
 - javac 14.0.1
